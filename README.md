@@ -17,3 +17,9 @@ The app methodology encompasses employing the Model-View-Controller pattern, adh
    - Acts as an intermediary between the Model and View.
    - Listens for user input from the View and updates the Model accordingly.
    - Updates the View based on changes in the Model.
+
+## How to run
+"Event Tracker" is a fully native iOS application with no external dependencies. To run the app, clone the repository and open the Xcode project file using Xcode 14 on a Mac, then simulate it on an Apple device(iPhone/ iPad/ Mac Catalyst) using the built-in simulator.
+```
+git clone https://github.com/mixed-farming/Event_Tracker.git
+```
