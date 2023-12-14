@@ -1,6 +1,6 @@
 # Event_Tracker
 An iOS app that streamlines event management and reminders, ensuring users stay organized and never miss important occasions.
-[App_Demo.mp4](https://github.com/mixed-farming/Event_Tracker/assets/94393300/faa68833-5c55-4dbf-ab60-2dc76991c28b)
+https://github.com/mixed-farming/Event_Tracker/assets/94393300/faa68833-5c55-4dbf-ab60-2dc76991c28b
 
 ## Description
 The aim of the project is to create an intuitive and user-friendly Event-Planner iOS application that simplifies the process of planning and coordinating events, encouraging meaningful and
