@@ -7,6 +7,10 @@ https://github.com/mixed-farming/Event_Tracker/assets/94393300/13f39267-ec2b-48a
 
 
 
+
+https://github.com/mixed-farming/Event_Tracker/assets/94393300/f5f6019a-7478-4d57-a823-abcdf09d947c
+
+
 ## Description
 The aim of the project is to create an intuitive and user-friendly Event-Planner iOS application that simplifies the process of planning and coordinating events, encouraging meaningful and
 well-organized celebrations.
